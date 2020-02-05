@@ -147,9 +147,15 @@ name {
 }
 
 #profile-img{
-    height: 250px;
-    width: 250px;
+    height: 125px;
+    width: 125px;
     background-image: url(images/ncsu_seal.png);
+}
+
+#nsf-logo{
+    height: 125px;
+    width: 125px;
+    background-image: url(images/NSFLogo.jpg);
 }
 
 span.highlight {
