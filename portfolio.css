@@ -86,34 +86,34 @@ a:focus, a:hover {
 
 body,td,th,tr,p,a {
     font-family: 'Nunito', "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     line-height:140%;
 }
 
 strong {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 heading {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 22px;
+    font-size: 26px;
 }
 
 subheading{
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 papertitle {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
 }
 
 name {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .col-proj-pic img {
@@ -164,7 +164,7 @@ span.highlight {
 
 label {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     cursor: pointer;
 }
