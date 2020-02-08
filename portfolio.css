@@ -175,6 +175,30 @@ label {
   overflow: hidden;
 }
 
+.single-col {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+}
+
+.heading-font-size {
+    font-size: 22px
+}
+
+.custom-tab-headings {
+    color: #555
+}
+
+.custom-row {
+    margin-left:0px;
+    margin-right:0px;
+}
+
+p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
 input:checked + label + .reveal {
   max-height: 500px;
   transition: max-height 0.25s ease-in;
