@@ -16,7 +16,7 @@
 }
 
 /* Spacing between rows */
-.row + .row { margin-top: 40px; }
+.custom-row + .custom-row { margin-top: 40px; }
 
 /* For mobile phones: */
 [class*="col-"] {
