@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-.row::after {
+.custom-row::after {
     content: "";
     clear: both;
     display: table;
@@ -19,7 +19,7 @@
 .custom-row + .custom-row { margin-top: 40px; }
 
 /* For mobile phones: */
-[class*="col-"] {
+[class*="custom-col-"] {
     width: 100%;
 }
 
@@ -189,9 +189,17 @@ label {
     color: #555
 }
 
-.custom-row {
-    margin-left:0px;
-    margin-right:0px;
+.row.no-pad {
+  margin-right:0;
+  margin-left:0;
+}
+.row.no-pad > [class*='col-'] {
+  padding-right:0;
+  padding-left:0;
+}
+
+.custom-small {
+    font-size: 13px
 }
 
 p {
