@@ -15,8 +15,18 @@
     justify-content: center;
 }
 
+.custom-sub-row::after {
+    content: "";
+    clear: both;
+    display: table;
+    justify-content: center;
+}
+
 /* Spacing between rows */
 .custom-row + .custom-row { margin-top: 40px; }
+
+/* Spacing between horizontal section (but lesser than rows) */
+.custom-sub-row + .custom-sub-row { margin-top: 20px; }
 
 /* For mobile phones: */
 [class*="custom-col-"] {
