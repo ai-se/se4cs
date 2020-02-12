@@ -218,6 +218,10 @@ label {
     font-size: 13px
 }
 
+.intro-heading {
+    font-style: italic;
+}
+
 p {
     margin-block-start: 1em;
     margin-block-end: 1em;
