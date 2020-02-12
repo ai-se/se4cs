@@ -105,6 +105,11 @@ strong {
     font-size: 18px;
 }
 
+.big-text {
+    font-size: 28px;
+    font-style: italic;
+}
+
 heading {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
     font-size: 26px;
