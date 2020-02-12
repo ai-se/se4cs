@@ -108,6 +108,7 @@ strong {
 heading {
     font-family: "Nunito", "Helvetica Neue", 'Lato', Verdana,Helvetica, Arial, sans-serif;
     font-size: 26px;
+    color: #CC0000;
 }
 
 subheading{
@@ -219,6 +220,10 @@ p {
 
 hr {
     border: 0.5px solid;
+}
+
+.nc-color {
+    color: #CC0000;
 }
 
 input:checked + label + .reveal {
