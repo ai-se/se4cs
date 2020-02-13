@@ -163,14 +163,14 @@ name {
 }
 
 #profile-img{
-    height: 125px;
-    width: 125px;
+    /*height: 125px;*/
+    /*width: 125px;*/
     background-image: url(images/ncsu_seal.png);
 }
 
 #nsf-logo{
-    height: 125px;
-    width: 125px;
+    /*height: 125px;*/
+    /*width: 125px;*/
     background-image: url(images/NSFLogo.jpg);
 }
 
