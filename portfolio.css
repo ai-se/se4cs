@@ -229,6 +229,10 @@ p {
 
 hr {
     border: 0.5px solid;
+    width: 100%;
+    align: center;
+    margin-top: 40px;
+    margin-bottom:40px;
 }
 
 .nc-color {
